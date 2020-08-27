@@ -5,4 +5,5 @@ As I have already created many repositories on Geeks for Geeks I have decided to
 **Mathematics :**
 1. Message Spreading 
 2. Difference series 
+3. Total number of Strings
 
