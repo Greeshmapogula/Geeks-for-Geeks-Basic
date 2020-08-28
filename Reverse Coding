@@ -1,0 +1,7 @@
+#code
+for _ in range(int(input())):
+    n,b=map(int,input().split())
+    if(b==(n*(n+1)/2)):
+        print(1)
+    else:
+        print(0)
