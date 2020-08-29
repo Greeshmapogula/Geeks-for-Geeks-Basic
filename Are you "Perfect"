@@ -1,0 +1,10 @@
+#code
+for _ in range(int(input())):
+    n = int(input())
+    s1 = int(n**(0.5))
+    s2 = (s1+1)*(s1+1)
+    s1 = s1*s1
+    if n - s1 < s2 - n:
+        print(s1,n-s1)
+    else:
+        print(s2,s2-n)
