@@ -16,3 +16,4 @@ As I have already created many repositories on Geeks for Geeks I have decided to
 2. The New Line - Java
 3. Learn to Comment - Java 
 4. nextLine and next 
+5. Taking input - Java
